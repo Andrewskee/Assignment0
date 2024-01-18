@@ -1,4 +1,4 @@
-# Assignment 0 Instructions
+# Andrew Reynoso
 This is a template and instructions for creating your own Assignment0.
 
 _Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
@@ -91,3 +91,4 @@ For example
 
 You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
 
+![Image description](/images/AndrewReynoso-2.jpg)
